@@ -31,22 +31,16 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Language identification model🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A machine learning model that identifies the language of a given text. It's trained on 6 Ugandan local languages and is available as a Python package.",
+    url: "www.kakuruconrada.me",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Personal Website",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
-  },
-  {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A personal website that showcases my work and experience. It's built with React and deployed to GitHub pages.",
+    url: "www.kakuruconrada.me",
   },
   {
     title: "GitHub Codespaces and github.dev",
