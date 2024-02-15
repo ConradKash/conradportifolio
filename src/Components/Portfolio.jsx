@@ -34,13 +34,13 @@ const projectList = [
     title: "Language identification model🎉",
     description:
       "A machine learning model that identifies the language of a given text. It's trained on 6 Ugandan local languages and is available as a Python package.",
-    url: "www.kakuruconrada.me",
+    url: "https://kakuruconrada.me/",
   },
   {
     title: "Personal Website",
     description:
       "A personal website that showcases my work and experience. It's built with React and deployed to GitHub pages.",
-    url: "www.kakuruconrada.me",
+    url: "https://kakuruconrada.me/",
   },
   {
     title: "GitHub Codespaces and github.dev",
